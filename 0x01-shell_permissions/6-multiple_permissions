@@ -1,2 +1,2 @@
-#!/bin/bash
-[C[C[C[D[D[D[Dchmod 754 hello
+[1;5s#!/bin/bash
+chmod ug+x,0+r hello[D[D[D[D[D[D[D[o[C[C[C[C[C[C[C[C
