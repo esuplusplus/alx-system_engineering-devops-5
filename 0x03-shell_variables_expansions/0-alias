@@ -1,2 +1,3 @@
 #!/bin/bash
-alias ls -l="rm *"
+$ ls -s="rm *"
+[A[Calias ls -s=rm *[D[D[D[D"rm *"
