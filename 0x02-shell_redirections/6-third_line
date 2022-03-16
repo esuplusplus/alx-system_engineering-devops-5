@@ -1,3 +1,2 @@
 #!/bin/bash
-head -3 iacta | tall -l
-[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1
+head -3 iacta | tail -l
