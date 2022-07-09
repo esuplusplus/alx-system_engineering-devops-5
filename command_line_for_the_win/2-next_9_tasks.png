@@ -1,0 +1,7 @@
+View Solutions
+The files in this challenge contain spaces. List all of the files (filenames only)
+in the current directory but replace all spaces with a ' . ' character.
+
+(1)> I
+9 Correct! You have a new challenge!
+1 | mv: cannot move ' . ' to ' . ./. ': Device or resource busy
