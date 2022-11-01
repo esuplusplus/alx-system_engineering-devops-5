@@ -29,4 +29,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **David Kwan** - [dwkwan](https://github.com/dwkwan)
+* **Patrick Ateng'** ((https://github.com/patrickateng))
